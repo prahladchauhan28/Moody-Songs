@@ -1,9 +1,9 @@
-import FaceExpressionDetector from './components/FaceExpressionDetector'
+import Home from './pages/Home'
 
 const App = () => {
   return (
     <div>
-      <FaceExpressionDetector/>
+      <Home/>
     </div>
   )
 }
