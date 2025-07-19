@@ -14,6 +14,7 @@ const MoodifyUI = () => {
         <Profile/>
         {/* Recommendations */}
        <Songs/>
+       
       </div>
     </div>
   );
